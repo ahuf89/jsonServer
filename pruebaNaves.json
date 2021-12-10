@@ -1,0 +1,91 @@
+{
+    "usuarios": [{
+            "id": 1,
+            "usuario": "John Doe",
+            "email": "john@gmail.com"
+        },
+        {
+            "id": 2,
+            "usuario": "Javier cardenas",
+            "email": "javier@gmail.com"
+        },
+        {
+            "id": 3,
+            "usuario": "Camilo cruz",
+            "email": "john.due@gmail.com"
+        },
+        {
+            "id": 4,
+            "usuario": "Pedro urrego",
+            "email": "camilo@gmail.com"
+        },
+        {
+            "id": 5,
+            "usuario": "Jesica lombita",
+            "email": "jesica@gmail.com"
+        }
+    ],
+    "pilotos": [{
+            "id": 1,
+            "usuario": "John Doe",
+            "email": "john@gmail.com"
+        },
+        {
+            "id": 2,
+            "usuario": "Javier cardenas",
+            "email": "javier@gmail.com"
+        },
+        {
+            "id": 3,
+            "usuario": "Camilo cruz",
+            "email": "john.due@gmail.com"
+        },
+        {
+            "id": 4,
+            "usuario": "Pedro urrego",
+            "email": "camilo@gmail.com"
+        },
+        {
+            "id": 5,
+            "usuario": "Jesica lombita",
+            "email": "jesica@gmail.com"
+        }
+    ],
+    "naves": [{
+            "name": "space x 1",
+            "brand": "toyota",
+            "tripulantes": "5",
+            "model": "1974",
+            "velocity": "10⁸ m/s.",
+            "alt_img": "https://hipertextual.com/wp-content/uploads/2020/12/spacex-starship-scaled.jpg",
+            "id": "ESl7_e9"
+        },
+        {
+            "name": "space x 2",
+            "brand": "chebrolet",
+            "tripulantes": "5",
+            "model": "2100",
+            "velocity": "12⁸ m/s.",
+            "alt_img": "https://pm1.narvii.com/6501/cf4fa12c7e6fee0998b79ef356146bd256ef6821_hq.jpg",
+            "id": "_LbYSoK"
+        },
+        {
+            "name": "NJave de Kamisama",
+            "brand": "auteco",
+            "tripulantes": "7",
+            "model": "2150",
+            "velocity": "12⁸ m/s.",
+            "alt_img": "http://pm1.narvii.com/6408/f13a2fe574b00a133e870f698d8732943adf8447_00.jpg",
+            "id": "GLtPphn"
+        },
+        {
+            "name": "Rxnmsj 2",
+            "brand": "yamaha",
+            "tripulantes": "9",
+            "model": "2152",
+            "velocity": "9⁸ m/s.",
+            "alt_img": "https://media.vandal.net/master/1-2020/202011918453285_1.jpg",
+            "id": "u_X0oeX"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "superhero": "space x 1",
+      "publisher": "DC - Comics",
+      "alter_ego": "Elon musk",
+      "first_appearance": "1974",
+      "characters": "120km/h",
+      "alt_img": "https://hipertextual.com/wp-content/uploads/2020/12/spacex-starship-scaled.jpg",
+      "id": "ESl7_e9"
+    },
+    {
+      "superhero": "space x 2",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Corporacion capsula",
+      "first_appearance": "2100",
+      "characters": "Padre de bulma",
+      "alt_img": "https://pm1.narvii.com/6501/cf4fa12c7e6fee0998b79ef356146bd256ef6821_hq.jpg",
+      "id": "_LbYSoK"
+    },
+    {
+      "superhero": "NJave de Kamisama",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Picolo",
+      "first_appearance": "2150",
+      "characters": "Kmisama",
+      "alt_img": "http://pm1.narvii.com/6408/f13a2fe574b00a133e870f698d8732943adf8447_00.jpg",
+      "id": "GLtPphn"
+    },
+    {
+      "superhero": "Rxnmsj 2",
+      "publisher": "DC - Comics",
+      "alter_ego": "Centaury",
+      "first_appearance": "2152",
+      "characters": "Freezer",
+      "alt_img": "https://media.vandal.net/master/1-2020/202011918453285_1.jpg",
+      "id": "u_X0oeX"
+    }
+  ]
+}
