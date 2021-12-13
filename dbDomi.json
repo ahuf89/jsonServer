@@ -1,28 +1,241 @@
 {
-    "users": {
-        "message": 1,
-        "status": "0 success, 1 failed",
-        "data": {
-            "name": "",
-            "last_name": "",
-            "email": "",
-            "data_birth": "",
-            "password": "",
-            "role": "1 admin, 2 restaurante, 3 cliente",
-            "photo": ""
-        }
+  "users": [
+    {
+      "id": "1",
+      "name": "Alvaro",
+      "last_name": "pepe",
+      "email": "123@gmail.com",
+      "telephone": "7650321",
+      "address": "Calle 74 a # 27 sur",
+      "data_birth": "1999/12/01",
+      "password": "123456",
+      "role": 1,
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
     },
-    "usersSave": {
-        "message": "Usuario creado",
-        "status": "0"
+    {
+      "id": "2",
+      "name": "Camilo",
+      "last_name": "Caposano",
+      "email": "123@gmail.com",
+      "telephone": "7650321",
+      "address": "Calle 74 a # 27 sur",
+      "data_birth": "1999/12/01",
+      "password": "123456",
+      "role": 2,
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
     },
-    "restaurants": [{
-        "id": "qJUR4kI",
-        "name": "robin2dasdsada",
-        "telephone": "pepe",
-        "address": "calle 74 a sur # 17 a 64",
-        "email": "restaurant@gmail.com",
-        "password": "123456",
-        "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
-    }]
+    {
+      "id": "3",
+      "name": "Juan",
+      "last_name": "Zapata",
+      "email": "123@gmail.com",
+      "telephone": "7650321",
+      "address": "Calle 74 a # 27 sur",
+      "data_birth": "1999/12/01",
+      "password": "123456",
+      "role": 3,
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "4",
+      "name": "Pedro",
+      "last_name": "Aguirre",
+      "email": "123@gmail.com",
+      "telephone": "7650321",
+      "address": "Calle 74 a # 27 sur",
+      "data_birth": "1999/12/01",
+      "password": "123456",
+      "role": 3,
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "vNhfRlq"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "K1yD0gW"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "EzxJ_hJ"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456kjhkjhkjhk",
+      "id": "EvLlLGC"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "mMzHY5b"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "mfbd6Ri"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "0X4NXKd"
+    },
+    {
+      "email": "juan@gmail.com",
+      "password": "123456",
+      "id": "W7ZXvfj"
+    },
+    {
+      "name": "Ahuf_edu",
+      "last_name": "dfsdf",
+      "address": "tertert",
+      "data_birth": "2021-12-11",
+      "role": "1",
+      "email": "jboalvarouse@gmail.com",
+      "password": "121321",
+      "id": "9cTu4_F"
+    },
+    {
+      "email": "juan@gjboalvarouse@gmail.commail.com",
+      "password": "121321",
+      "id": "xNSKjSg"
+    },
+    {
+      "email": "jboalvarouse@gmail.com",
+      "password": "121321",
+      "id": "q544gpx"
+    },
+    {
+      "id": "o3FUM46"
+    }
+  ],
+  "usersSave": {
+    "message": "Usuario creado",
+    "status": "0"
+  },
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Colombia Pollos",
+      "telephone": "pepe1",
+      "address": "calle 74 a sur # 17 a 64",
+      "email": "restaurant@gmail.com",
+      "password": "123456",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "2",
+      "name": "Salchichas menu",
+      "telephone": "pepe2",
+      "address": "calle 74 a sur # 17 a 64",
+      "email": "restaurant@gmail.com",
+      "password": "123456",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "3",
+      "name": "Carnes finas",
+      "telephone": "pepe3",
+      "address": "calle 74 a sur # 17 a 64",
+      "email": "restaurant@gmail.com",
+      "password": "123456",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "3",
+      "name": "Carrefour",
+      "telephone": "pepe4",
+      "address": "calle 74 a sur # 17 a 64",
+      "email": "restaurant@gmail.com",
+      "password": "123456",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    }
+  ],
+  "platos": [
+    {
+      "id": "1",
+      "name": "Bandeja Paisa",
+      "cuantity": 2,
+      "size": "300g",
+      "valor": 25000,
+      "description": "Y para esos dias de antojos las mejores comidas con ricos ingredientes y las mejores carnes. ",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "2",
+      "name": "Arroz con pollo",
+      "cuantity": 2,
+      "size": "300g",
+      "valor": 25000,
+      "description": "Y para esos dias de antojos las mejores comidas con ricos ingredientes y las mejores carnes. ",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "3",
+      "name": "Carne Azada",
+      "cuantity": 2,
+      "size": "300g",
+      "valor": 25000,
+      "description": "Y para esos dias de antojos las mejores comidas con ricos ingredientes y las mejores carnes. ",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "4",
+      "name": "Churrasco",
+      "cuantity": 2,
+      "size": "300g",
+      "valor": 25000,
+      "description": "Y para esos dias de antojos las mejores comidas con ricos ingredientes y las mejores carnes. ",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    },
+    {
+      "id": "5",
+      "name": "Pollo BBQ",
+      "cuantity": 2,
+      "size": "300g",
+      "valor": 25000,
+      "description": "Y para esos dias de antojos las mejores comidas con ricos ingredientes y las mejores carnes. ",
+      "photo": "https://i.pinimg.com/originals/15/ae/b9/15aeb91c0c1a640a577ca886ffba87d9.gif"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "1",
+      "name": "Bandeja Paisa",
+      "cliente": "Gustavo",
+      "cuantity": 2,
+      "monto": 20000
+    },
+    {
+      "id": "2",
+      "name": "Arroz con pollo",
+      "cliente": "Hector",
+      "cuantity": 2,
+      "monto": 20000
+    },
+    {
+      "id": "3",
+      "name": "Carne Azada",
+      "cliente": "Santiago",
+      "cuantity": 2,
+      "monto": 20000
+    },
+    {
+      "id": "4",
+      "name": "Churrasco",
+      "cliente": "Camilo",
+      "cuantity": 2,
+      "monto": 20000
+    },
+    {
+      "id": "5",
+      "name": "Alitas BBQ",
+      "cliente": "Anderson",
+      "cuantity": 2,
+      "monto": 20000
+    }
+  ]
 }
